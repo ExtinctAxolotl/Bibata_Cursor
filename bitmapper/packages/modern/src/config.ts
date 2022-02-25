@@ -5,10 +5,10 @@ interface Config {
   color: Colors;
 }
 
-const black = "#000000";
-const white = "#FFFFFF";
+const black = "#353535";
+const white = "#D4C4C4";
 const amber = "#FF8300";
-const richBlack = "#001524";
+const richBlack = "#525252";
 
 const config: Config[] = [
   {
